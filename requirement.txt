@@ -1,4 +1,0 @@
-streamlit
-numpy
-streamlit-cropper
-Pillow
